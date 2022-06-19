@@ -1,8 +1,5 @@
 from random import randint
 
-
-# create a blackjack terminal game
-
 class Player:
     def __init__(self, _name):
         self.name = _name
